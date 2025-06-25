@@ -9,6 +9,11 @@ MENTOR NAME: NEELA SANTHOSH KUMAR
 A collection of machine learning model implementations in Python using scikit-learn, pandas, and Jupyter notebooks. This repository contains end-to-end examples of building, evaluating, and deploying predictive models for real-world datasets.
 
 ---
+## Demo
+![Screenshot 2025-06-25 060854](https://github.com/user-attachments/assets/9def8436-a173-49b4-ab01-40170c4210bf)
+![Screenshot 2025-06-25 060912](https://github.com/user-attachments/assets/07b4856b-a2ae-4b85-86a9-a92be9c28ed1)
+
+---
 
 ## 📁 Repository Structure
 
